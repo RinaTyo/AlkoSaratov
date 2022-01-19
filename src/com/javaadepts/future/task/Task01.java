@@ -1,7 +1,7 @@
-package com.javaadepts.future;
+package com.javaadepts.future.task;
 
-import com.javaadepts.future.Human;
-import com.javaadepts.future.Pivo;
+import com.javaadepts.future.db.Human;
+import com.javaadepts.future.db.Pivo;
 
 public class Task01 {
 
@@ -79,8 +79,4 @@ public class Task01 {
     private boolean isPrivateMethod() {
         return true;
     }
-
-/*
-Сделать класс закуски
- */
 }

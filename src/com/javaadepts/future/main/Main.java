@@ -1,5 +1,8 @@
-package com.javaadepts.future;
+package com.javaadepts.future.main;
 
+import com.javaadepts.future.db.Human;
+import com.javaadepts.future.db.Pivo;
+import com.javaadepts.future.task.Task01;
 
 public class Main {
     public static void main(String[] args) {
