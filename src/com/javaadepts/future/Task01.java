@@ -80,5 +80,7 @@ public class Task01 {
         return true;
     }
 
-
+/*
+Сделать класс закуски
+ */
 }
