@@ -1,4 +1,4 @@
-package com.javaadepts.future;
+package com.javaadepts.future.db;
 
 public class Pivo {
     private String name;
